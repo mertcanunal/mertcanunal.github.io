@@ -6,24 +6,25 @@
     <description>Recent content on Mert Can Ünal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Aug 2021 17:47:19 +0300</lastBuildDate><atom:link href="https://mertcanunal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 17:47:14 +0300</lastBuildDate><atom:link href="https://mertcanunal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Second Post</title>
-      <link>https://mertcanunal.github.io/posts/my-second-post/</link>
-      <pubDate>Fri, 06 Aug 2021 17:47:19 +0300</pubDate>
+      <title>Projects</title>
+      <link>https://mertcanunal.github.io/projects/</link>
+      <pubDate>Tue, 10 Aug 2021 11:46:14 +0300</pubDate>
       
-      <guid>https://mertcanunal.github.io/posts/my-second-post/</guid>
-      <description></description>
+      <guid>https://mertcanunal.github.io/projects/</guid>
+      <description> 2021/08/06 My First Post  </description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>https://mertcanunal.github.io/about/</link>
       <pubDate>Fri, 06 Aug 2021 17:47:14 +0300</pubDate>
       
       <guid>https://mertcanunal.github.io/about/</guid>
-      <description>deneme tasdas
-import os os.popen(&amp;#39;hello world&amp;#39;) </description>
+      <description>Hello everyone,
+I am Mert Can. I am senior year Control and Automation Engineering student at Yildiz Technical University. I started writing a blog to archive my projects neatly and share them with everyone. Currently, I am working on projects about image processing and computer vision on OpenCV. Also, because python is my favorite language for coding, there will always be some python projects now and then.
+You can reach me from:</description>
     </item>
     
     <item>
@@ -32,16 +33,7 @@ import os os.popen(&amp;#39;hello world&amp;#39;) </description>
       <pubDate>Fri, 06 Aug 2021 17:47:14 +0300</pubDate>
       
       <guid>https://mertcanunal.github.io/posts/my-first-post/</guid>
-      <description>This is column 1. This is column 2.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mertcanunal.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mertcanunal.github.io/projects/</guid>
-      <description></description>
+      <description>Hello World!</description>
     </item>
     
   </channel>
